@@ -11,10 +11,13 @@
         <option value="$PROJECT_DIR$/Java-11/pom.xml" />
         <option value="$PROJECT_DIR$/Java-12/pom.xml" />
         <option value="$PROJECT_DIR$/Java-13/pom.xml" />
+        <option value="$PROJECT_DIR$/Java-14/pom.xml" />
+        <option value="$PROJECT_DIR$/Java-18/pom.xml" />
+        <option value="$PROJECT_DIR$/Java-21/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="corretto-15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

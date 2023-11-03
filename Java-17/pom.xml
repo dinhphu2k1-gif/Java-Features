@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>Java-11</artifactId>
+  <artifactId>Java-17</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Java-11</name>
+  <name>Java-17</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -31,8 +31,8 @@
         <version>3.11.0</version>
         <configuration>
           <!-- 1.8, 1.10, 11, 12, 13-->
-          <source>11</source>
-          <target>11</target>
+          <source>17</source>
+          <target>17</target>
         </configuration>
       </plugin>
     </plugins>
